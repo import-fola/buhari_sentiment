@@ -61,10 +61,7 @@ dependencies:
   - llvm-meta=6.0.1=0
   - llvmdev=6.0.1=h2d50403_2
   - markupsafe=1.0=py36h470a237_1
-  - matplotlib=3.0.0=py36h45c993b_1
   - mistune=0.8.4=py36h470a237_0
-  - mkl_fft=1.0.6=py36_0
-  - mkl_random=1.0.1=py36_0
   - msgpack-numpy=0.4.3.2=py_0
   - msgpack-python=0.5.6=py36h2d50403_3
   - murmurhash=0.28.0=py36hfc679d8_0
@@ -146,10 +143,8 @@ dependencies:
   - gensim=3.4.0=py36h1de35cc_0
   - intel-openmp=2019.0=118
   - libgfortran=3.0.1=h93005f0_2
-  - mkl=2019.0=118
   - numpy=1.15.2=py36h6a91979_1
   - numpy-base=1.15.2=py36h8a80b8c_1
   - scikit-learn=0.20.0=py36h4f467ca_1
-  - scipy=1.1.0=py36h28f7352_1
 prefix: /Users/frederickodukomaiya/anaconda/envs/nlp
 
