@@ -111,7 +111,7 @@ tweepy==3.6.0
 tweet-parser==1.13.1
 twython==3.7.0
 ujson==1.35
-urllib3==1.23
+urllib3==1.26.5
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.14.1
