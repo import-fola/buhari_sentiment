@@ -74,7 +74,7 @@ ptyprocess==0.6.0
 pybind11==2.2.4
 pycparser==2.19
 Pygments==2.2.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pyLDAvis==2.1.2
 pyOpenSSL==18.0.0
 pyparsing==2.2.2
