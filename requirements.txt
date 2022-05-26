@@ -110,7 +110,7 @@ traitlets==4.3.2
 tweepy==3.6.0
 tweet-parser==1.13.1
 twython==3.7.0
-ujson==1.35
+ujson==5.2.0
 urllib3==1.23
 wcwidth==0.1.7
 webencodings==0.5.1
